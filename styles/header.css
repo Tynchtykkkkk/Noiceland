@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 10px;
+}
+.text-header {
+    h2 {
+        color: #000000;
+        font-size: 20px;
+        font-weight: 750;
+        letter-spacing: 1px;
+    }
+}
+nav {
+  display: flex;
+  gap: 40px;
+  list-style: none;
+  margin-left: 300px;
+}
+li {
+  a {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+  }
+}
+.line {
+    background: #E6E6E6;
+    opacity: 0.3;
+}
+

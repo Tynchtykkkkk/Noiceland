@@ -1,0 +1,44 @@
+.cards{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 50px;
+    .card{
+        img{
+        width: 400px;
+        height: 270px;
+        opacity: 1;
+        }
+        h3{
+        font-family: Source Serif Pro;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+        color: #999999;
+        margin: 15px 0;
+        }
+        h2{
+        font-weight: 400;
+        font-family: Tenor Sans;
+        font-size: 22px;
+        line-height: 24px;
+        font-style: Regular;
+        line-height: 25px;
+        letter-spacing: 1px;
+        }
+        h4{
+        font-family: Libre Franklin;
+        margin-top: 15px;
+        font-weight: 800;
+        font-size: 11px;
+        line-height: 12px;
+        color: black;
+        }
+    }
+    .lastcards {
+        display: flex;
+        gap: 30px;
+        margin-top: 20px;
+    }
+}
