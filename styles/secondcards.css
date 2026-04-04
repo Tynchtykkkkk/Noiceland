@@ -1,0 +1,55 @@
+#picture_many {
+  margin-top: 150px;
+}
+.post {
+  color: gray;
+  font-size: 19px;
+  margin-bottom: 40px;
+  font-family: Libre Franklin;
+}
+.mini_card img {
+  width: 250px;
+}
+.mini_card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.mini_card p {
+  color: #999999;
+  font-family: Libre Franklin;
+}
+.mini_card h2 {
+  font-family: Tenor Sans;
+  font-weight: 400;
+  font-size: 23px;
+}
+.mini_card h4 {
+  font-family: Libre Franklin;
+}
+
+.mini_cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 13px;
+}
+
+.mini_cards2 {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 13px;
+}
+.viewbtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 140px;
+  button {
+    background: white;
+    padding: 20px;
+    font-family: Libre Franklin;
+  }
+}

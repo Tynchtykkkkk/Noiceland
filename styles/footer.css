@@ -1,0 +1,79 @@
+#footer {
+  margin-top: 200px;
+  background-color: #141414;
+  color: #fff;
+  padding: 60px 40px;
+  font-size: 17px;
+}
+#footer a {
+  color: white;
+}
+
+.footer-top {
+  margin-bottom: 30px;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 30px;
+  letter-spacing: 2px;
+  margin-right: 20px;
+}
+
+.copyright {
+  font-size: 10px;
+  color: #666;
+  text-transform: uppercase;
+}
+.ca {
+  margin-top: 20px;
+  color: #666666;
+  font-family: Libre Franklin;
+  margin-top: 80px;
+}
+.cat {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 20px;
+  font-size: 19px;
+  font-family: Libre Franklin;
+}
+.categori {
+  display: flex;
+  align-items: center;
+  gap: 120px;
+}
+input {
+  padding: 20px;
+  width: 200px;
+}
+.sleter p {
+  color: #666666;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+.sleter button {
+  padding: 20px;
+  background: black;
+  color: white;
+  border: none;
+  font-size: Libre Franklin;
+}
+.info {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  font-family: Libre Franklin;
+  font-size: 20px;
+}
+.info p {
+  color: #666666;
+  font-size: 15px;
+}
+.about {
+  display: flex;
+  align-items: center;
+  gap: 120px;
+}

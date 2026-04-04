@@ -1,0 +1,48 @@
+#sport {
+  margin-top: 250px;
+}
+.post2 {
+  color: gray;
+  font-size: 14px;
+  margin-bottom: 40px;
+  font-family: Libre Franklin;
+}
+.sport {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 14px;
+}
+
+.sport-card img {
+  width: 630px;
+}
+
+.sport-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.sport-card p {
+  color: gray;
+}
+
+.sport-card h2 {
+  font-family: Tenor Sans;
+  font-weight: 200;
+  font-size: 29px;
+}
+
+.sport-card h4 {
+  font-family: Libre Franklin;
+  font-weight: 900;
+}
+
+.sport2 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 14px;
+  margin-top: 100px;
+}
