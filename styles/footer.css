@@ -14,7 +14,7 @@
 }
 
 .logo {
-  font-weight: bold;
+  font-weight: 750;
   font-size: 30px;
   letter-spacing: 2px;
   margin-right: 20px;
@@ -51,7 +51,7 @@ input {
 .sleter p {
   color: #666666;
   margin-bottom: 10px;
-  font-size: 12px;
+  font-size: 14px;
 }
 .sleter button {
   padding: 20px;
@@ -70,10 +70,27 @@ input {
 }
 .info p {
   color: #666666;
-  font-size: 15px;
+  font-size: 14px;
 }
 .about {
   display: flex;
   align-items: center;
   gap: 120px;
+}
+.info3 {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  font-family: Libre Franklin;
+  font-size: 20px;
+}
+.info3 p {
+  color: #666666;
+  font-size: 14px;
+}
+.line4 {
+  background: #e6e6e6;
+  opacity: 0.3;
+  margin-top: 90px;
 }

@@ -1,5 +1,5 @@
 #picture_many {
-  margin-top: 150px;
+  margin-top: 50px;
 }
 .post {
   color: gray;
@@ -52,4 +52,9 @@
     padding: 20px;
     font-family: Libre Franklin;
   }
+}
+.line2 {
+  background: #e6e6e6;
+  opacity: 0.3;
+  margin-top: 90px;
 }
